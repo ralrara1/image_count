@@ -13,3 +13,6 @@ Visual Studio Code + Mysql + Xampp
 # 실행 결과
 
 ![image](https://user-images.githubusercontent.com/89557740/170242198-b3aa135e-5925-4610-b757-02fde8b16ef2.png)
+
+# 테이블 구조
+
